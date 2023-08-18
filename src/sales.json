@@ -1,0 +1,36 @@
+{
+    "sales": [
+        {
+            "product": {
+                "id": 1,
+                "name": "TV Samsung 4K",
+                "value": 129900
+            },
+            "qntd": 5
+        },
+        {
+            "product": {
+                "id": 8,
+                "name": "Monitor LG 29 FHD",
+                "value": 129900
+            },
+            "qntd": 2
+        },
+        {
+            "product": {
+                "id": 1,
+                "name": "TV Samsung 4K",
+                "valor": 129900
+            },
+            "qntd": 5
+        },
+        {
+            "product": {
+                "id": 1,
+                "name": "TV Samsung 4K",
+                "valor": 129900
+            },
+            "qntd": 5
+        }
+    ]
+}
