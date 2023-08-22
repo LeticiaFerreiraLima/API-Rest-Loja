@@ -1,12 +1,14 @@
-# Exercício de leitura e escrita em arquivos - programação assíncrona
+# Loja Virtual 
 
-Exercício realizado no curso de desenvolvimento Back end da [Cubos Academy](https://cubos.academy/)
+Este projeto foi realizado como parte do curso de desenvolvimento Back end da [Cubos Academy](https://cubos.academy/)
 
 ### Proposta do exercício: 
 
-Implemente uma API REST de uma Loja Virtual que possibilite listar os produtos e realizar uma venda.
+Implementar uma API do modelo de arquitetura REST no sistema de uma loja virtual, com objetivo de construir as seguintes funcionalidades: 
+1. Listagem dos produtos da Loja;
+2. Adição de um novo produto à Loja;
 
-Os produtos disponíveis no sistema são:
+## Ferramentas e tecnologias usadas:
 
 ```javascript
 const produtos = [
@@ -58,3 +60,4 @@ Exemplo:
     "quantidade": 5
 }
 ```
+
